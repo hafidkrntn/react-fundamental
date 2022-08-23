@@ -1,0 +1,15 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/gambar/bg1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.intro {
+    height: 30%;
+    display: flex;
+    justify-content: end;
+    align-items: end;  
+}
